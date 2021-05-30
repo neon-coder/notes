@@ -1,2 +1,2 @@
 # notes
-A reamainder like notes
+A reminder like notes
